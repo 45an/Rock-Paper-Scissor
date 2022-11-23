@@ -112,7 +112,7 @@ class Program
             
         }
 
-        Console.WriteLine("Thanks for playing, have a good day!");
+        Console.WriteLine("Thanks for playing, have a nice day! :)");
 
         Console.ReadLine();
 
