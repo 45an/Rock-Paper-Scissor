@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors Game in C#
 
-This is a simple console-based implementation of the classic rock-paper-scissors game in ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white).
+This is a simple console-based implementation of the classic rock-paper-scissors game in C#
 
 ## How to Play
 
@@ -23,6 +23,7 @@ This is a simple console-based implementation of the classic rock-paper-scissors
     Rock beats scissors
     Scissors beats paper
     Paper beats rock
+    
 
 ## Code Overview
 
